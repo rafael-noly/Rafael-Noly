@@ -24,7 +24,7 @@ Profissional de Tecnologia da Informação com experiência em suporte técnico,
 ## 📚 Formação e aprendizado
 
 
-- 👨‍💻 Tech Para Todos - Escola da Nuvem.
+- 👨‍💻 Tech Para Todos - Escola da Nuvem (em andamento).
 - 📊 Ciência de Dados — EBAC (em andamento).
 - 🔐 Cibersegurança — Hackers do Bem (em andamento).
 - 🎓 Gestão da Tecnologia da Informação — UNIP.
