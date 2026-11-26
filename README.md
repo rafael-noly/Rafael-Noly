@@ -14,16 +14,13 @@
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-## 📚 Formação e aprendizado!
-<div style="display: inline_block"><br/>
-  
-  <img align="center" alt="EscolaDaNuvem" src="https://img.shields.io/badge/Escola_da_Nuvem-00B4D8?style=for-the-badge&logoColor=white" /> **👨‍💻 Tech Para Todos (em andamento).**
+## 📚 O que estou estudando
 
-  <img align="center" alt="HackersDoBem" src="https://img.shields.io/badge/Hackers_do_Bem-00C853?style=for-the-badge&logoColor=black" /> **🔐 Cibersegurança (em andamento).**
-
-  <img align="center" alt="EBAC" src="https://img.shields.io/badge/EBAC-D82E21?style=for-the-badge&logoColor=white" /> **📊 Ciência de Dados (em andamento).**
-
-  <img align="center" alt="UNIP" src="https://img.shields.io/badge/UNIP-FF3300?style=for-the-badge&logoColor=white" /> **🎓 Gestão da Tecnologia da Informação (concluído).**
+- 🐍 **Python:** lógica de programação, estruturas de dados e resolução de problemas
+- 📊 **Ciência de Dados:** EBAC (Escola Britânica de Artes Criativas & Tecnologia)
+- 🔐 **Cibersegurança:** Programa Hackers do Bem
+- ☁️ **Tech Para Todos:** Escola da Nuvem
+- 🎯 **Próximo passo:** cursos e certificações em nuvem, como AWS e Cloud
 
   
 
