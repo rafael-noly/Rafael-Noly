@@ -14,16 +14,17 @@
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-## 📚 O que estou estudando
+## 📚 Formações e aprendizados!
 
-- 🐍 **Python:** lógica de programação, estruturas de dados e resolução de problemas
-- 📊 **Ciência de Dados:** EBAC (Escola Britânica de Artes Criativas & Tecnologia)
-- 🔐 **Cibersegurança:** Programa Hackers do Bem
-- ☁️ **Tech Para Todos:** Escola da Nuvem
-- 🎯 **Próximo passo:** cursos e certificações em nuvem, como AWS e Cloud
+- 📊 **Ciência de Dados | EBAC - Escola Britânica de Artes Criativas & Tecnologia (2026 - em andamento)**
+- 🔐 **Cibersegurança | Programa Hackers do Bem (2026 - em andamento)**
+- ☁️ **Tech Para Todos |  Escola da Nuvem (2026-2026)**
+- 🎓 **Tecnólogo em Gestão da Tecnologia da Informação | UNIP (2019 - 2020)** 
+- 🎯 **Próximo passo: cursos e certificações em nuvem, como AWS e Cloud**
 
   
 
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rafael-noly)](https://github.com/stats-organization/github-stats-extended)
+
